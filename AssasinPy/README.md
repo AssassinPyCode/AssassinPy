@@ -20,23 +20,20 @@ _____________________________________________________________________
 
 REQUIREMENTS:
 
-torch==1.9.0+cu111
-torchvision==0.10.0+cu111
-
-matplotlib>=3.2.2
-numpy>=1.18.5
-opencv-python>=4.1.2
+Torch
+Torchvision
+matplotlib
+numpy
+opencv
 Pillow
-PyYAML>=5.3.1
-scipy>=1.4.1
-tqdm>=4.41.0
-tensorboard>=2.4.1
-seaborn>=0.11.0
+PyYAML
+scipy
+tqdm
+tensorboard
+seaborn
 pandas
-
 mss
 pygame
-pynput
 pywin32
 requests
 wheel
